@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907135292797",
+    "project_id": "loteria-push-yael",
+    "storage_bucket": "loteria-push-yael.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907135292797:android:07957accb086e0b5742814",
+        "android_client_info": {
+          "package_name": "com.example.loteria_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeh-479sI6UdM_gyenS3rT6_wSn31mlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
